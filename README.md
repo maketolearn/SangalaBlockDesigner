@@ -54,9 +54,9 @@ not source. Fetch it beside the application with:
 library the application can import.
 
 ## Related
-- [Sangala Studio](https://github.com/GlenBull/SangalaStudio) — die cutter control and
+- [Sangala Studio](https://github.com/maketolearn/SangalaStudio) — die cutter control and
   2D/3D design; the source of the frames used here.
-- [Sangala Mosaic](https://github.com/GlenBull/SangalaMosaic) — a photograph as a
+- [Sangala Mosaic](https://github.com/maketolearn/SangalaMosaic) — a photograph as a
   mosaic of LEGO tiles.
 
 ## License

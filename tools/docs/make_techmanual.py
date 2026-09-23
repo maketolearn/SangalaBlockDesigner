@@ -23,7 +23,7 @@ d.heading("1. Downloading and Installing")
 d.body("What is needed: a Windows computer, and nothing else. The .NET compiler used to build the "
        "program is already part of Windows, and no administrator rights are required at any point.")
 d.body("The repository is obtained from GitHub:", before_list=True)
-d.code("https://github.com/GlenBull/SangalaBlockDesigner")
+d.code("https://github.com/maketolearn/SangalaBlockDesigner")
 d.body("The program is built once, by double-clicking Build SangalaBlocks.cmd. This compiles "
        "SangalaBlocksServer.cs into SangalaBlockDesigner.exe with the crane icon embedded. Thereafter the "
        "application is started by double-clicking that executable, which serves its page and opens it in "
